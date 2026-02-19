@@ -25,7 +25,7 @@ A one-stop statistical analysis pipeline for DIA-NN untargeted proteomics data. 
 Install dependencies with pip:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scipy statsmodels scikit-learn openpyxl
+pip install requirements.txt
 ```
 
 ---
