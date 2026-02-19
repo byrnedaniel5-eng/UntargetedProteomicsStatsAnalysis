@@ -38,7 +38,7 @@ class Config:
     
     # Groups
     CASE_NAME = "Case"
-    CONTROL_NAME = "Contro;"
+    CONTROL_NAME = "Control"
     GROUP_COL = "Group"
     SAMPLE_ID_COL = "Sample_ID"
     
